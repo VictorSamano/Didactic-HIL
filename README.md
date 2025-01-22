@@ -8,5 +8,5 @@ La carpeta "Emulator" contiene el proyecto de Visual Studio Code del emulador.
 La carpeta "GUI" contiene el proyecto de Visual Studio y el instalador de la GUI.
 </p>
 <p align="justify">
-La carpeta "PCB" contiene el proyecto del PCB del emulador tanto en Altium Designer como en EasyEDA, asi como los archivos Gerber para fabricarlo.
+La carpeta "PCB" contiene el proyecto del PCB del emulador tanto en Altium Designer como en EasyEDA, así como los archivos Gerber para fabricarlo.
 </p>

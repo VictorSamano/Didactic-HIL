@@ -1,0 +1,40 @@
+C:\Users\amsot\source\repos\prueba\prueba\bin\Debug\prueba.exe.config
+C:\Users\amsot\source\repos\prueba\prueba\bin\Debug\prueba.exe
+C:\Users\amsot\source\repos\prueba\prueba\bin\Debug\prueba.pdb
+C:\Users\amsot\source\repos\prueba\prueba\obj\Debug\prueba.csproj.AssemblyReference.cache
+C:\Users\amsot\source\repos\prueba\prueba\obj\Debug\prueba.Form1.resources
+C:\Users\amsot\source\repos\prueba\prueba\obj\Debug\prueba.Properties.Resources.resources
+C:\Users\amsot\source\repos\prueba\prueba\obj\Debug\prueba.csproj.GenerateResource.cache
+C:\Users\amsot\source\repos\prueba\prueba\obj\Debug\prueba.csproj.CoreCompileInputs.cache
+C:\Users\amsot\source\repos\prueba\prueba\obj\Debug\prueba.exe
+C:\Users\amsot\source\repos\prueba\prueba\obj\Debug\prueba.pdb
+C:\Users\amsot\OneDrive\Escritorio\prueba\prueba\bin\Debug\prueba.exe.config
+C:\Users\amsot\OneDrive\Escritorio\prueba\prueba\bin\Debug\prueba.exe
+C:\Users\amsot\OneDrive\Escritorio\prueba\prueba\bin\Debug\prueba.pdb
+C:\Users\amsot\OneDrive\Escritorio\prueba\prueba\obj\Debug\prueba.csproj.AssemblyReference.cache
+C:\Users\amsot\OneDrive\Escritorio\prueba\prueba\obj\Debug\prueba.Form1.resources
+C:\Users\amsot\OneDrive\Escritorio\prueba\prueba\obj\Debug\prueba.Properties.Resources.resources
+C:\Users\amsot\OneDrive\Escritorio\prueba\prueba\obj\Debug\prueba.csproj.GenerateResource.cache
+C:\Users\amsot\OneDrive\Escritorio\prueba\prueba\obj\Debug\prueba.csproj.CoreCompileInputs.cache
+C:\Users\amsot\OneDrive\Escritorio\prueba\prueba\obj\Debug\prueba.exe
+C:\Users\amsot\OneDrive\Escritorio\prueba\prueba\obj\Debug\prueba.pdb
+C:\Users\amsot\OneDrive\Escritorio\proyecto residencias\prueba\prueba\bin\Debug\prueba.exe.config
+C:\Users\amsot\OneDrive\Escritorio\proyecto residencias\prueba\prueba\bin\Debug\prueba.exe
+C:\Users\amsot\OneDrive\Escritorio\proyecto residencias\prueba\prueba\bin\Debug\prueba.pdb
+C:\Users\amsot\OneDrive\Escritorio\proyecto residencias\prueba\prueba\obj\Debug\prueba.csproj.AssemblyReference.cache
+C:\Users\amsot\OneDrive\Escritorio\proyecto residencias\prueba\prueba\obj\Debug\prueba.Form1.resources
+C:\Users\amsot\OneDrive\Escritorio\proyecto residencias\prueba\prueba\obj\Debug\prueba.Properties.Resources.resources
+C:\Users\amsot\OneDrive\Escritorio\proyecto residencias\prueba\prueba\obj\Debug\prueba.csproj.GenerateResource.cache
+C:\Users\amsot\OneDrive\Escritorio\proyecto residencias\prueba\prueba\obj\Debug\prueba.csproj.CoreCompileInputs.cache
+C:\Users\amsot\OneDrive\Escritorio\proyecto residencias\prueba\prueba\obj\Debug\prueba.exe
+C:\Users\amsot\OneDrive\Escritorio\proyecto residencias\prueba\prueba\obj\Debug\prueba.pdb
+C:\Users\amsot\OneDrive\Escritorio\proyecto residencias\prueba - exe app\prueba\bin\Debug\prueba.exe.config
+C:\Users\amsot\OneDrive\Escritorio\proyecto residencias\prueba - exe app\prueba\bin\Debug\prueba.exe
+C:\Users\amsot\OneDrive\Escritorio\proyecto residencias\prueba - exe app\prueba\bin\Debug\prueba.pdb
+C:\Users\amsot\OneDrive\Escritorio\proyecto residencias\prueba - exe app\prueba\obj\Debug\prueba.csproj.AssemblyReference.cache
+C:\Users\amsot\OneDrive\Escritorio\proyecto residencias\prueba - exe app\prueba\obj\Debug\prueba.Form1.resources
+C:\Users\amsot\OneDrive\Escritorio\proyecto residencias\prueba - exe app\prueba\obj\Debug\prueba.Properties.Resources.resources
+C:\Users\amsot\OneDrive\Escritorio\proyecto residencias\prueba - exe app\prueba\obj\Debug\prueba.csproj.GenerateResource.cache
+C:\Users\amsot\OneDrive\Escritorio\proyecto residencias\prueba - exe app\prueba\obj\Debug\prueba.csproj.CoreCompileInputs.cache
+C:\Users\amsot\OneDrive\Escritorio\proyecto residencias\prueba - exe app\prueba\obj\Debug\prueba.exe
+C:\Users\amsot\OneDrive\Escritorio\proyecto residencias\prueba - exe app\prueba\obj\Debug\prueba.pdb

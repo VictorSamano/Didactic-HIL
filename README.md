@@ -10,3 +10,6 @@ The "GUI" folder contains the Visual Studio Project and the installer for the GU
 <p align="justify">
 The "PCB" folder contains the PCB project for the emulator in both Altium Designer and EasyEDA, as well as the Gerber files for its manufacturing. 
 </p>
+<p align="justify">
+The "MATLAB simulations" folder contains the MATLAB files used to simulate the systems in the experiments presented in the article. 
+</p>

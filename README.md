@@ -43,7 +43,7 @@
 
 ### [MATLAB Simulations folder](./MATLAB%20simulations)
 
-#### Ball & Beam folder
+#### [Ball & Beam folder](./MATLAB%20simulations/Ball%20%26%20Beam)
 
 | Subfolder     | Files                                 | Description                                                                  |
 |---------------|----------------------------------------|------------------------------------------------------------------------------|

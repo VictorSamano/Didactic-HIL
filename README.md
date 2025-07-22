@@ -57,7 +57,7 @@
 | Gear Motor    | `raiz.m`, `bloques.slx`, `data.csv`      | MATLAB script, Simulink model, and captured experimental data               |
 | Motor         | `raiz.m`, `bloques_motor.slx`, `data.csv`| MATLAB script, Simulink model, and captured experimental data               |
 
-### PCB folder
+### [PCB folder](./PCB)
 
 | Subfolder         | Script/File Names                                      | Description                                                                 |
 |-------------------|--------------------------------------------------------|-----------------------------------------------------------------------------|

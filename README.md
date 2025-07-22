@@ -47,8 +47,8 @@
 
 | Subfolder     | Files                                 | Description                                                                  |
 |---------------|----------------------------------------|------------------------------------------------------------------------------|
-| [control P](./MATLAB%20simulations/Ball%20%26%20/control%20P)     | `raiz.m`, `bloques_P.slx`, `data.csv` | MATLAB script, Simulink model with P controller, and captured experimental data |
-| [control PD](./MATLAB%20simulations/Ball%20%26%20/control%20PD)    | `raiz.m`, `bloques_PD.slx`, `data.csv`| MATLAB script, Simulink model with PD controller, and captured experimental data |
+| [control P](./MATLAB%20simulations/Ball%20%26%20Beam/control%20P)     | `raiz.m`, `bloques_P.slx`, `data.csv` | MATLAB script, Simulink model with P controller, and captured experimental data |
+| [control PD](./MATLAB%20simulations/Ball%20%26%20Beam/control%20PD)    | `raiz.m`, `bloques_PD.slx`, `data.csv`| MATLAB script, Simulink model with PD controller, and captured experimental data |
 
 #### Gear Motor and Motor folder
 

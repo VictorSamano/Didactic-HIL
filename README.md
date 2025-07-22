@@ -21,10 +21,10 @@
 
 | Subfolder             | Script/File                       | Description                                                               |
 |-----------------------|-----------------------------------|---------------------------------------------------------------------------|
-| [Ball_Beam_PD_control](./CUT/Ball_Beam_PD_control)  | Ball_Beam_PD_control.ino          | Arduino code implementing a PD controller for the Ball & Beam system      |
-| [Ball_Beam_P_control](./CUT/Ball_Beam_P_control)   | Ball_Beam_P_control.ino           | Arduino code implementing a P controller for the Ball & Beam system       |
-| [Gear_Motor_P_control](./CUT/Gear_Motor_P_control)  | Gear_Motor_P_control.ino          | Arduino code implementing a P controller for the Gear Motor system        |
-| [Motor_PI_control](./CUT/Motor_PI_control)      | Motor_PI_control.ino              | Arduino code implementing a PI controller for the Motor system            |
+| [Ball_Beam_PD_control](./CUT/Ball_Beam_PD_control/Ball_Beam_PD_control.ino)  | Ball_Beam_PD_control.ino          | Arduino code implementing a PD controller for the Ball & Beam system      |
+| [Ball_Beam_P_control](./CUT/Ball_Beam_P_control/Ball_Beam_P_control.ino)   | Ball_Beam_P_control.ino           | Arduino code implementing a P controller for the Ball & Beam system       |
+| [Gear_Motor_P_control](./CUT/Gear_Motor_P_control/Gear_Motor_P_control.ino)  | Gear_Motor_P_control.ino          | Arduino code implementing a P controller for the Gear Motor system        |
+| [Motor_PI_control](./CUT/Motor_PI_control/Motor_PI_control)      | Motor_PI_control.ino              | Arduino code implementing a PI controller for the Motor system            |
 
 ### Emulator folder
 

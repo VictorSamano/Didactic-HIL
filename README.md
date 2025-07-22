@@ -26,7 +26,7 @@
 | Gear_Motor_P_control  | Gear_Motor_P_control.ino          | Arduino code implementing a P controller for the Gear Motor system        |
 | Motor_PI_control      | Motor_PI_control.ino              | Arduino code implementing a PI controller for the Motor system            |
 
-### Emulator folder
+### [Emulator folder](./Emulator)
 
 | Subfolder     | Scripts                  | Description                                                                 |
 |---------------|---------------------------|-----------------------------------------------------------------------------|
@@ -34,14 +34,14 @@
 | Gear Motor    | `CMakeLists.txt`, `main.c`| CMake build configuration and source code for Gear Motor emulator          |
 | Motor         | `CMakeLists.txt`, `main.c`| CMake build configuration and source code for Motor emulator               |
 
-### GUI folder
+### [GUI folder](./GUI)
 
 | Subfolder                | Files                                     | Description                                                                 |
 |--------------------------|-------------------------------------------|-----------------------------------------------------------------------------|
 | Installer                | `HILed.msi`, `setup.exe`                  | Windows installer and setup launcher for HIL emulator                      |
 | Visual Studio Project    | `.vs`, `prueba`, `Prueba.sln`             | Visual Studio config/cache, source code, and project files                 |
 
-### MATLAB Simulations folder
+### [MATLAB Simulations folder](./MATLAB simulations)
 
 #### Ball & Beam folder
 

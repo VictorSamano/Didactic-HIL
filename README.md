@@ -57,13 +57,13 @@
 | [Gear Motor](./MATLAB%20simulations/Gear%20Motor)    | `raiz.m`, `bloques.slx`, `data.csv`      | MATLAB script, Simulink model, and captured experimental data               |
 | [Motor](./MATLAB%20simulations/Motor)         | `raiz.m`, `bloques_motor.slx`, `data.csv`| MATLAB script, Simulink model, and captured experimental data               |
 
-### [PCB folder](./PCB)
+### PCB folder
 
 | Subfolder         | Script/File Names                                      | Description                                                                 |
 |-------------------|--------------------------------------------------------|-----------------------------------------------------------------------------|
-| Altium Designer   | `PCB_emuladorHIL_2025-01-22.pcbdoc`, `Sheet_1_2025-01-22.schdoc` | Altium Designer layout and schematic of HIL emulator              |
-| EasyEDA           | `PCB_*.json`, `SCH_*.json`                             | PCB layout and schematic in EasyEDA format                                  |
-| Gerber.zip        | Various `.DRL`, `.G*` files + `How-to-order-PCB.txt`   | Drill files, Gerber files for PCB layers, and manufacturing instructions    |
+| [Altium Designer](./PCB/Altium%20Designer)   | `PCB_emuladorHIL_2025-01-22.pcbdoc`, `Sheet_1_2025-01-22.schdoc` | Altium Designer layout and schematic of HIL emulator              |
+| [EasyEDA](./PCB/EasyEDA)           | `PCB_*.json`, `SCH_*.json`                             | PCB layout and schematic in EasyEDA format                                  |
+| [Gerber](./PCB/GERBER.zip)            | Various `.DRL`, `.G*` files + `How-to-order-PCB.txt`   | Drill files, Gerber files for PCB layers, and manufacturing instructions    |
 
 ---
 

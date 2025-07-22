@@ -41,7 +41,7 @@
 | Installer                | `HILed.msi`, `setup.exe`                  | Windows installer and setup launcher for HIL emulator                      |
 | Visual Studio Project    | `.vs`, `prueba`, `Prueba.sln`             | Visual Studio config/cache, source code, and project files                 |
 
-### [MATLAB Simulations folder](./MATLAB simulations)
+### [MATLAB Simulations folder](./MATLAB%20simulations)
 
 #### Ball & Beam folder
 

@@ -38,8 +38,8 @@
 
 | Subfolder                | Files                                     | Description                                                                 |
 |--------------------------|-------------------------------------------|-----------------------------------------------------------------------------|
-| Installer                | `HILed.msi`, `setup.exe`                  | Windows installer and setup launcher for HIL emulator                      |
-| Visual Studio Project    | `.vs`, `prueba`, `Prueba.sln`             | Visual Studio config/cache, source code, and project files                 |
+| [Installer](./GUI/Installer)                | `HILed.msi`, `setup.exe`                  | Windows installer and setup launcher for HIL emulator                      |
+| [Visual Studio Project](./GUI/Visual%20Studio%20Community%20Project.zip)    | `.vs`, `prueba`, `Prueba.sln`             | Visual Studio config/cache, source code, and project files                 |
 
 ### [MATLAB Simulations folder](./MATLAB%20simulations)
 

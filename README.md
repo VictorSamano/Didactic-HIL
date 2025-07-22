@@ -30,7 +30,7 @@
 
 | Subfolder     | Scripts                  | Description                                                                 |
 |---------------|---------------------------|-----------------------------------------------------------------------------|
-| Ball & Beam   | `CMakeLists.txt`, `main.c`| CMake build configuration and source code for Ball & Beam emulator         |
+| [Ball & Beam](./Emulator/Ball%20&%20Beam)   | `CMakeLists.txt`, `main.c`| CMake build configuration and source code for Ball & Beam emulator         |
 | Gear Motor    | `CMakeLists.txt`, `main.c`| CMake build configuration and source code for Gear Motor emulator          |
 | Motor         | `CMakeLists.txt`, `main.c`| CMake build configuration and source code for Motor emulator               |
 

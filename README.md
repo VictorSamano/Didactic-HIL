@@ -31,8 +31,8 @@
 | Subfolder     | Scripts                  | Description                                                                 |
 |---------------|---------------------------|-----------------------------------------------------------------------------|
 | [Ball & Beam](./Emulator/Ball%20&%20Beam)   | `CMakeLists.txt`, `main.c`| CMake build configuration and source code for Ball & Beam emulator         |
-| Gear Motor    | `CMakeLists.txt`, `main.c`| CMake build configuration and source code for Gear Motor emulator          |
-| Motor         | `CMakeLists.txt`, `main.c`| CMake build configuration and source code for Motor emulator               |
+| [Gear Motor](./Emulator/Gear%20Motor)    | `CMakeLists.txt`, `main.c`| CMake build configuration and source code for Gear Motor emulator          |
+| [Motor](./Emulator/Motor)         | `CMakeLists.txt`, `main.c`| CMake build configuration and source code for Motor emulator               |
 
 ### [GUI folder](./GUI)
 

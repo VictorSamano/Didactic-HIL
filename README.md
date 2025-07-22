@@ -17,7 +17,7 @@
 
 ## 📁 Included Archives
 
-### [CUT folder](./CUT)
+### CUT folder
 
 | Subfolder             | Script/File                       | Description                                                               |
 |-----------------------|-----------------------------------|---------------------------------------------------------------------------|
@@ -26,7 +26,7 @@
 | [Gear_Motor_P_control](./CUT/Gear_Motor_P_control)  | Gear_Motor_P_control.ino          | Arduino code implementing a P controller for the Gear Motor system        |
 | [Motor_PI_control](./CUT/Motor_PI_control)      | Motor_PI_control.ino              | Arduino code implementing a PI controller for the Motor system            |
 
-### [Emulator folder](./Emulator)
+### Emulator folder
 
 | Subfolder     | Scripts                  | Description                                                                 |
 |---------------|---------------------------|-----------------------------------------------------------------------------|
@@ -34,21 +34,21 @@
 | [Gear Motor](./Emulator/Gear%20Motor)    | `CMakeLists.txt`, `main.c`| CMake build configuration and source code for Gear Motor emulator          |
 | [Motor](./Emulator/Motor)         | `CMakeLists.txt`, `main.c`| CMake build configuration and source code for Motor emulator               |
 
-### [GUI folder](./GUI)
+### GUI folder
 
 | Subfolder                | Files                                     | Description                                                                 |
 |--------------------------|-------------------------------------------|-----------------------------------------------------------------------------|
 | [Installer](./GUI/Installer)                | `HILed.msi`, `setup.exe`                  | Windows installer and setup launcher for HIL emulator                      |
 | [Visual Studio Project](./GUI/Visual%20Studio%20Community%20Project.zip)    | `.vs`, `prueba`, `Prueba.sln`             | Visual Studio config/cache, source code, and project files                 |
 
-### [MATLAB Simulations folder](./MATLAB%20simulations)
+### MATLAB Simulations folder
 
-#### [Ball & Beam folder](./MATLAB%20simulations/Ball%20%26%20Beam)
+#### Ball & Beam folder
 
 | Subfolder     | Files                                 | Description                                                                  |
 |---------------|----------------------------------------|------------------------------------------------------------------------------|
-| control P     | `raiz.m`, `bloques_P.slx`, `data.csv` | MATLAB script, Simulink model with P controller, and captured experimental data |
-| control PD    | `raiz.m`, `bloques_PD.slx`, `data.csv`| MATLAB script, Simulink model with PD controller, and captured experimental data |
+| [control P](./MATLAB%20simulations/Ball%20%26%20/control%20P)     | `raiz.m`, `bloques_P.slx`, `data.csv` | MATLAB script, Simulink model with P controller, and captured experimental data |
+| [control PD](./MATLAB%20simulations/Ball%20%26%20/control%20PD)    | `raiz.m`, `bloques_PD.slx`, `data.csv`| MATLAB script, Simulink model with PD controller, and captured experimental data |
 
 #### Gear Motor and Motor folder
 
